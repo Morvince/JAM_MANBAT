@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "id": "manbat",
+  "version": "${version}",
+
+  "name": "Manbat",
+  "description": "This is a mod about a bat in a human body",
+  "authors": [
+    "Morvince",
+    "noaleclaire",
+    "Nzoooo"
+  ],
+  "contact": {
+    "homepage": "",
+    "sources": "https://github.com/Morvince/JAM_HERO"
+  },
+
+  "license": "MIT",
+  "icon": "assets/manbat/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "nem.manbat.Manbat"
+    ]
+  },
+  "mixins": [
+    "manbat.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.14.11",
+    "fabric-api": "*",
+    "minecraft": "~1.19.3",
+    "java": ">=17"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}
