@@ -37,3 +37,4 @@ Pour utiliser ce mod, vous aurez besoin de:
 Nous espérons que vous apprécierez ce mod et qu'il améliorera votre expérience de jeu sur Minecraft.
 
 ![Maintened](https://img.shields.io/badge/Maintained%3F-yes-green.svg) ![AskMe](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)
+
