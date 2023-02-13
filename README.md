@@ -56,7 +56,7 @@ Ce mod, se jouant en mode survie, a pour objectif de crafter sa combinaison de p
   Crafter l'allumeur du portail :
 </br>
 </br>
-<img src="https://github.com/Morvince/JAM_MANBAT/blob/main/images/craft_allumeur.png">
+<img src="https://github.com/Morvince/JAM_MANBAT/blob/main/images/craft_allumeur.png" width=392>
 
 ## Pré-requis
 
