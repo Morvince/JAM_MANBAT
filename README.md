@@ -13,7 +13,7 @@ Ce mod, se jouant en mode survie, a pour objectif de crafter sa combinaison de p
 
 ## Fonctionnalités
 
-- Ajout d'une nouvelle dimension comprenant un biome de type nether unique
+- Ajout d'une nouvelle dimension menant vers un biome de type nether unique
 - Ajout d'un nouveau boss: Manbat
 - Ajout de nouveaux items
 
