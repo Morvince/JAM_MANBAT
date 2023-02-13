@@ -2,7 +2,7 @@
 
 ### EPITECH JAM (SUPER-HERO)
 
-# Minecraft Mod - Java Development
+# Manbat Mod - Forge (Java)
 
 Bienvenue sur notre projet de mod Minecraft développé en Java! Ce mod ajoutera de nouvelles fonctionnalités et éléments au jeu original pour une expérience encore plus amusante.
 
@@ -19,6 +19,23 @@ Ce mod, se jouant en mode survie, a pour objectif de crafter sa combinaison de p
 
 ## Guide
 
+#### Crafter sa combinaison de pompier :
+
+    Crafter le casque :
+    
+    Crafter le plastron :
+    
+    Crafter les jambières :
+    
+    Crafter les bottes :
+
+#### Crafter sa lance à incendie :
+
+#### Crafter le portail menant à la batmension :
+
+    Construire le portail :
+    
+    Crafter l'allumeur du portail :
 
 ## Pré-requis
 
