@@ -10,6 +10,8 @@ Bienvenue sur notre projet de mod Minecraft développé en Java! Ce mod ajoutera
 
 L'objectif de ce mod est d'incarner un pompier, notre héros de tout les jours, avec lequel il faudra parvenir à battre le super-vilain Manbat qui se terre dans sa dimension, la batmension.
 Ce mod, se jouant en mode survie, a pour objectif de crafter sa combinaison de pompier, son arme, et récolter les matériaux nécessaires permettant la création du portail menant à la batmension, afin d'affronter Manbat.
+</br>
+<img src="https://github.com/Morvince/JAM_MANBAT/blob/main/images/ManbatHead.png">
 
 ## Fonctionnalités
 
