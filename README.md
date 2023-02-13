@@ -48,7 +48,7 @@ Pour utiliser ce mod, vous aurez besoin de:
 ## Installation
 
 1. Téléchargez le fichier manbat.jar présent dans le repo.
-2. Placez le fichier .jar dans le dossier "mods" de votre jeu Minecraft (souvent présent dans %appdata%\.minecraft sous Windows).
+2. Placez le fichier .jar dans le dossier "mods" de votre jeu Minecraft (souvent présent dans %appdata%\\.minecraft sous Windows).
 3. Lancez Minecraft et activez le mod dans les paramètres du jeu.
 
 #### Nous espérons que vous apprécierez ce mod et qu'il améliorera votre expérience de jeu sur Minecraft.
