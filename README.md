@@ -21,22 +21,42 @@ Ce mod, se jouant en mode survie, a pour objectif de crafter sa combinaison de p
 
 #### Crafter sa combinaison de pompier :
 
-    Crafter le casque :
-https://github.com/Morvince/JAM_MANBAT/blob/main/images/craft_casque.png
+  Crafter le casque :
+</br>
+</br>
+<img src="https://github.com/Morvince/JAM_MANBAT/blob/main/images/craft_casque.png">
     
-    Crafter le plastron :
-    
-    Crafter les jambières :
-    
-    Crafter les bottes :
+  Crafter le plastron :
+</br>
+</br> 
+<img src="https://github.com/Morvince/JAM_MANBAT/blob/main/images/craft_plastron.png">
+
+  Crafter les jambières :
+</br>
+</br>
+<img src="https://github.com/Morvince/JAM_MANBAT/blob/main/images/craft_jambières.png">
+
+  Crafter les bottes :
+</br>
+</br>
+<img src="https://github.com/Morvince/JAM_MANBAT/blob/main/images/craft_bottes.png">
 
 #### Crafter son pistolet à eau :
+</br>
+</br>
+<img src="https://github.com/Morvince/JAM_MANBAT/blob/main/images/craft_pistolet.png">
 
 #### Crafter le portail menant à la batmension :
 
-    Construire le portail :
+  Construire le portail :
+</br>
+</br>
+<img src="https://github.com/Morvince/JAM_MANBAT/blob/main/images/construction_portail.png">
     
-    Crafter l'allumeur du portail :
+  Crafter l'allumeur du portail :
+</br>
+</br>
+<img src="https://github.com/Morvince/JAM_MANBAT/blob/main/images/craft_allumeur.png">
 
 ## Pré-requis
 
