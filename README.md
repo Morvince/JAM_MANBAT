@@ -29,7 +29,7 @@ Ce mod, se jouant en mode survie, a pour objectif de crafter sa combinaison de p
     
     Crafter les bottes :
 
-#### Crafter sa lance à incendie :
+#### Crafter son pistolet à eau :
 
 #### Crafter le portail menant à la batmension :
 
