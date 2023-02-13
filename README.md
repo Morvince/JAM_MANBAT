@@ -8,31 +8,28 @@ Bienvenue sur notre projet de mod Minecraft développé en Java! Ce mod ajoutera
 
 ## Le Principe ?
 
-L'objectif de ce mod est d'incarner un pompier avec lequel il faudra combattre un super-vilain qui se bat accompagné de chauve-souris.
-Ce mod ce déroule dans une grotte, plus le joueur avancera dans cette grotte plus il sera difficile de ce battre contre les ennemies qui seront de
-plus en plus présent tout au long du parcours.
+L'objectif de ce mod est d'incarner un pompier, notre héros de tout les jours, avec lequel il faudra parvenir à battre le super-vilain Manbat qui se terre dans sa dimension, la batmension.
+Ce mod, se jouant en mode survie, a pour objectif de crafter sa combinaison de pompier, et récolter les matériaux nécessaires permettant la création du portail menant à la batmension, afin d'affronter Manbat.
 
 ## Fonctionnalités
 
-- Ajout d'une nouvelle dimension avec des environnements uniques
-- Ajout de nouveaux blocs, ennemis et objets
-- Ajout de nouvelles mécaniques de jeu
-- Amélioration du HUD pour les joueurs
+- Ajout d'une nouvelle dimension comprenant un biome de type nether unique
+- Ajout d'un nouveau boss: Manbat
+- Ajout de nouveaux items
 
 ## Pré-requis
 
 Pour utiliser ce mod, vous aurez besoin de:
 
-- Minecraft version 1.8 ou plus récente
+- Forge version 1.19.2
+- Minecraft version 1.19.2
 - Java Development Kit (JDK) installé sur votre ordinateur
 
 ## Installation
 
-1. Téléchargez le fichier .jar de la dernière version du mod à partir de la page de téléchargement GitHub.
-2. Placez le fichier .jar dans le dossier "mods" de votre jeu Minecraft.
+1. Téléchargez le fichier manbat.jar présent dans le repo.
+2. Placez le fichier .jar dans le dossier "mods" de votre jeu Minecraft (souvent présent dans %appdata%\.minecraft sous Windows).
 3. Lancez Minecraft et activez le mod dans les paramètres du jeu.
-
-## Conclusion
 
 Nous espérons que vous apprécierez ce mod et qu'il améliorera votre expérience de jeu sur Minecraft.
 
