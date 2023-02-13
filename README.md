@@ -48,7 +48,7 @@ Ce mod, se jouant en mode survie, a pour objectif de crafter sa combinaison de p
 
 ## Pré-requis
 
-Pour utiliser ce mod, vous aurez besoin de:
+Pour utiliser ce mod, vous aurez besoin de :
 
 - Forge version 1.19.2
 - Minecraft version 1.19.2
