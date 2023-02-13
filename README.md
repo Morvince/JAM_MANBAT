@@ -9,13 +9,16 @@ Bienvenue sur notre projet de mod Minecraft développé en Java! Ce mod ajoutera
 ## Le Principe ?
 
 L'objectif de ce mod est d'incarner un pompier, notre héros de tout les jours, avec lequel il faudra parvenir à battre le super-vilain Manbat qui se terre dans sa dimension, la batmension.
-Ce mod, se jouant en mode survie, a pour objectif de crafter sa combinaison de pompier, et récolter les matériaux nécessaires permettant la création du portail menant à la batmension, afin d'affronter Manbat.
+Ce mod, se jouant en mode survie, a pour objectif de crafter sa combinaison de pompier, son arme, et récolter les matériaux nécessaires permettant la création du portail menant à la batmension, afin d'affronter Manbat.
 
 ## Fonctionnalités
 
 - Ajout d'une nouvelle dimension comprenant un biome de type nether unique
 - Ajout d'un nouveau boss: Manbat
 - Ajout de nouveaux items
+
+## Guide
+
 
 ## Pré-requis
 
@@ -31,7 +34,7 @@ Pour utiliser ce mod, vous aurez besoin de:
 2. Placez le fichier .jar dans le dossier "mods" de votre jeu Minecraft (souvent présent dans %appdata%\.minecraft sous Windows).
 3. Lancez Minecraft et activez le mod dans les paramètres du jeu.
 
-Nous espérons que vous apprécierez ce mod et qu'il améliorera votre expérience de jeu sur Minecraft.
+#### Nous espérons que vous apprécierez ce mod et qu'il améliorera votre expérience de jeu sur Minecraft.
 
 ![Maintened](https://img.shields.io/badge/Maintained%3F-yes-green.svg) ![AskMe](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)
 
