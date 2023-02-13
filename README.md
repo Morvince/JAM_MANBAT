@@ -43,7 +43,7 @@ Ce mod, se jouant en mode survie, a pour objectif de crafter sa combinaison de p
 </br>
 <img src="https://github.com/Morvince/JAM_MANBAT/blob/main/images/craft_bottes.png">
 
-#### Crafter son pistolet à eau :
+#### Crafter le pistolet à eau :
 <img src="https://github.com/Morvince/JAM_MANBAT/blob/main/images/craft_pistolet.png">
 
 #### Crafter le portail menant à la batmension :
