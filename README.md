@@ -22,6 +22,7 @@ Ce mod, se jouant en mode survie, a pour objectif de crafter sa combinaison de p
 #### Crafter sa combinaison de pompier :
 
     Crafter le casque :
+    ![alt text](https://github.com/Morvince/JAM_MANBAT/images/main/craft_casque.jpg?raw=true)
     
     Crafter le plastron :
     
